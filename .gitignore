@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# .env.local
+# this file is .gitignore'd, so we won't accidentally publish the token
+REACT_APP_SLACK_TOKEN=xoxb-13649336358-1054863462390-MwTD6ezxE8mkTlXfraZCagW7
